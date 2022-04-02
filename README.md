@@ -57,7 +57,7 @@ Describe any challenges encountered while building the app.
     See the License for the specific language governing permissions and
     limitations under the License.
 
-#Project 3 - *SimpleInstagram* Part2
+# Project 3 - *SimpleInstagram* Part 2
 
 **SimpleInstagram** is a photo sharing app similar to Instagram but using Parse as its backend.
 
